@@ -1,5 +1,5 @@
 
-<h1 align="center">Hello! I'm João Victor Dantas 👋 </h1>
+<h1 align="center">Hey there! I'm João Victor Dantas 👋 </h1>
 <h3 align="center">🚀 Frontend Developer 🚀</h3>
 <div>
 <div align="left"> 
