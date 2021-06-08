@@ -15,8 +15,8 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | Java | C++  
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | VueJS | ReactJS | PHP
-- 🛢 &nbsp; MySQL | Firebase | Xampp
+- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | VueJS | PHP
+- 🛢 &nbsp; MySQL | Xampp
 - 🔧 &nbsp; PyCharm | Visual Studio Code | Netbeans | Git
 - 🖥 &nbsp; Photoshop | Figma | Sony Vegas | Adobe Premiere
 
