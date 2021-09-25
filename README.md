@@ -1,13 +1,13 @@
 
 <h1 align="center">Hey there! I'm João Victor Dantas 👋 </h1>
-<h3 align="center">🚀 Frontend Developer 🚀</h3>
+<h3 align="center">🚀 Software Developer 🚀</h3>
 <div>
 <div align="left"> 
   <h3> 👨🏻‍💻 About Me </h3>
 
   - 🤔 &nbsp; Exploring new technologies and developing software solutions.
   - 🎓 &nbsp; Studying Computer Science and IT at UFRN.
-  - 💼 &nbsp; I’m currently working on Development projects.
+  - 💼 &nbsp; I’m currently working on Development projects at Elite Consultores.
   - 🌱 &nbsp; Learning more about VueJS, Firebase, ReactJS, Dart, Flutter and ReactNative.
   - ✍️ &nbsp; Pursuing musical instruments and gaming as hobbies.  
 </div> 
