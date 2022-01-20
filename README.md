@@ -7,17 +7,17 @@
 
   - 🤔 &nbsp; Exploring new technologies and developing software solutions.
   - 🎓 &nbsp; Studying Computer Science and IT at UFRN.
-  - 💼 &nbsp; I’m currently working on Development projects at Elite Consultores.
-  - 🌱 &nbsp; Learning more about VueJS, Firebase, ReactJS, Dart, Flutter and ReactNative.
+  - 💼 &nbsp; I’m currently working on Development projects at Esig Software.
+  - 🌱 &nbsp; Learning more about VueJS, ReactJS, MaterialUI, .Net Core, ASP.NET, SQL Server, Oracle DB.
   - ✍️ &nbsp; Pursuing musical instruments and gaming as hobbies.  
 </div> 
 </div>
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Java | C++  
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | VueJS | PHP
-- 🛢 &nbsp; MySQL | Xampp
-- 🔧 &nbsp; PyCharm | Visual Studio Code | Netbeans | Git
+- 💻 &nbsp; C# | JavaScript | Java | Python | C | C++  
+- 🌐 &nbsp; React | VueJS | Bootstrap | MaterialUI | JavaScript
+- 🛢 &nbsp; MySQL | SQL Server | Oracle DB
+- 🔧 &nbsp; PyCharm | Visual Studio Code | Visual Studio 2019 and 2022 | Netbeans | Git | Xampp
 - 🖥 &nbsp; Photoshop | Figma | Sony Vegas | Adobe Premiere
 
 <br>
