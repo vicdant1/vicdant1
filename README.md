@@ -6,7 +6,7 @@
   <h3> 👨🏻‍💻 About Me </h3>
 
   - 🤔 &nbsp; Exploring new technologies and developing software solutions.
-  - 🎓 &nbsp; Studying Computer Science and IT at UFRN.
+  - 🎓 &nbsp; Studying Software Engineering and IT at UFRN.
   - 💼 &nbsp; I’m currently working on Development projects at Esig Software.
   - 🌱 &nbsp; Learning more about VueJS, ReactJS, MaterialUI, .Net Core, ASP.NET, SQL Server, Oracle DB.
   - ✍️ &nbsp; Pursuing musical instruments and gaming as hobbies.  
