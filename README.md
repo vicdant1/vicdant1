@@ -15,9 +15,9 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; C# | JavaScript | Java | Python | C | C++  
-- 🌐 &nbsp; React | VueJS | Bootstrap | MaterialUI | JavaScript
-- 🛢 &nbsp; MySQL | SQL Server | Oracle DB
-- 🔧 &nbsp; PyCharm | Visual Studio Code | Visual Studio 2019 and 2022 | Netbeans | Git | Xampp
+- 🌐 &nbsp; React | VueJS | Bootstrap | MaterialUI
+- 🛢 &nbsp; SQL Server | PostgreSQL | Oracle DB
+- 🔧 &nbsp; Visual Studio Code | Visual Studio 2019 and 2022 | JetBrains Rider | Git | Xampp
 - 🖥 &nbsp; Photoshop | Figma | Sony Vegas | Adobe Premiere
 
 <br>
