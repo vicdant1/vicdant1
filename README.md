@@ -7,15 +7,15 @@
 
   - 🤔 &nbsp; Exploring new technologies and developing software solutions.
   - 🎓 &nbsp; Studying Software Engineering and IT at UFRN.
-  - 💼 &nbsp; I’m currently working on Development projects at Esig Software.
-  - 🌱 &nbsp; Learning more about VueJS, ReactJS, MaterialUI, .Net Core, ASP.NET, SQL Server, Oracle DB.
-  - ✍️ &nbsp; Pursuing musical instruments and gaming as hobbies.  
+  - 💼 &nbsp; I’m currently working on Software Development projects at Esig Software.
+  - 🌱 &nbsp; Learning more about PHP and Vuex.
+  - ✍️ &nbsp; Code and games ❤️.  
 </div> 
 </div>
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; C# | JavaScript | Java | Python | C | C++  
-- 🌐 &nbsp; React | VueJS | Bootstrap | MaterialUI
+- 💻 &nbsp; C# | JavaScript | Java | Python | C | C++ | PHP  
+- 🌐 &nbsp; React | VueJS | Bootstrap | MaterialUI | .Net Core | Laravel
 - 🛢 &nbsp; SQL Server | PostgreSQL | Oracle DB
 - 🔧 &nbsp; Visual Studio Code | Visual Studio 2019 and 2022 | JetBrains Rider | Git | Xampp
 - 🖥 &nbsp; Photoshop | Figma | Sony Vegas | Adobe Premiere
