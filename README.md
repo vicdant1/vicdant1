@@ -1,3 +1,1 @@
-> Someday you are going see all my public repos with beautiful READMEs. Trust me... 🤡
-
-![carbon](https://user-images.githubusercontent.com/69057084/165416711-95f0dec5-b816-4306-9bde-f9ea9adaee7e.png)
+<img width="220" height="165" alt="monkey-business" src="https://github.com/user-attachments/assets/b2af99ae-aa06-4690-b026-3175db48697a" />
